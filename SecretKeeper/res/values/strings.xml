@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Secret keeper</string>
+    <string name="action_change_password">Change password</string>
+    <string name="ok_value">OK</string>
+    <string name="add_password">Add password</string>
+    <string name="description">Description :</string>
+    <string name="login">Login :</string>
+    <string name="password">Password :</string>
+    <string name="description_exemple">www.example.fr</string>
+    <string name="delete_password">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="welcome">You are new to this application ! Please choose a master password that will crypt all others passwords. This password will never be saved as is on your phone.</string>
+    <string name="register">Register</string>
+    <string name="title_activity_change_password">ChangePasswordActivity</string>
+	<string name="different_passwords">Password are different</string>
+	<string name="change_password">Please enter your new password below.</string>
+	<string name="validate">Validate</string>
+    <string name="generate_random">Random</string>
+    <string name="invalid_password">Invalid password</string>
+</resources>
